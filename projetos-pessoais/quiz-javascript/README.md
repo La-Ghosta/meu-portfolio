@@ -3,7 +3,7 @@
 Este projeto é um pequeno jogo de perguntas e respostas, desenvolvido em HTML, CSS e JavaScript puro.  
 O objetivo é testar o conhecimento do usuário e apresentar a pontuação ao final.
 
-# Funcionalidades
+# Funcionalidades 
 
 - Perguntas com múltiplas alternativas
 - Validação de respostas
