@@ -21,6 +21,7 @@ O objetivo é testar o conhecimento do usuário e apresentar a pontuação ao fi
 1. Faça o download ou clone o repositório
 2. Navegue até a pasta `quiz-javascript`
 3. Abra o arquivo `index.html` em seu navegador
+4. Para personalização pessoal de perguntas, basta ir a pasta app.js
 
 
 
