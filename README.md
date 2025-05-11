@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software e estou construindo minha trajetória co
 
 - `Estudos-iniciais/`: estudos realizados durante a graduação.
 - `projetos-pessoais/`: Iniciativas próprias de estudo e prática.
-- `documentacao/`: Guias, anotações e tutoriais que escrevo.
+
 
 
 ## Destaques
