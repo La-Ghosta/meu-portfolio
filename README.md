@@ -1,5 +1,8 @@
 # Portfólio de Projetos – Ghosta
 
+  **GitHub Pages (site ao vivo):** <https://La-Ghosta.github.io>
+
+
 Bem-vindo ao meu portfólio de projetos!  
 Sou estudante de Engenharia de Software e estou construindo minha trajetória como desenvolvedor, focando em boas práticas, organização e aprendizado constante.
 
@@ -36,5 +39,5 @@ Esse repositório será atualizado frequentemente com novos projetos e melhorias
 
  Contato:
 
-[(www.linkedin.com/in/guilherme-holanda-9b2419354](https://www.linkedin.com/in/guilherme-holanda-9b2419354/)
+[www.linkedin.com/in/guilherme-holanda-9b2419354](https://www.linkedin.com/in/guilherme-holanda-9b2419354/)
 
