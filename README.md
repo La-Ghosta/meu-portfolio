@@ -5,10 +5,10 @@ Sou estudante de Engenharia de Software e estou construindo minha trajetória co
 
 ## Estrutura do Repositório
 
-- `projetos-academicos/`: Projetos realizados durante a graduação.
+- `Estudos-iniciais/`: estudos realizados durante a graduação.
 - `projetos-pessoais/`: Iniciativas próprias de estudo e prática.
 - `documentacao/`: Guias, anotações e tutoriais que escrevo.
-- `imagens/`: Recursos visuais e material de apoio.
+
 
 ## Destaques
 
