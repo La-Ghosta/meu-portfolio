@@ -2,7 +2,6 @@
 
 Este espaço é dedicado à minha trajetória acadêmica, onde compartilho atividades, projetos e materiais desenvolvidos ao longo da graduação.
 
----
 
 ## 🗂 Projetos Universitários
 
