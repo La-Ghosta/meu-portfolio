@@ -35,6 +35,24 @@ Permite o usuário responder questões e ver sua pontuação final.
 Sou apaixonado por tecnologia e estou dando meus primeiros passos como desenvolvedor.  
 Esse repositório será atualizado frequentemente com novos projetos e melhorias.
 
+
+---
+
+## 📚 Carreira Acadêmica
+
+Nesta seção, você pode conhecer um pouco mais sobre minha trajetória universitária, projetos desenvolvidos durante a graduação, calendário de atividades, currículo e outros materiais acadêmicos.
+
+🔗 [Acessar Carreira Acadêmica](./carreira-academica/README.md)
+
+---
+
+## 📄 Currículo em constante atualização
+
+Meu currículo inicial, contendo informações completas sobre minha formação, experiências e habilidades:
+
+- [Acessar Currículo (Google Drive)](https://docs.google.com/document/d/1ZsCFiT24h6Y-pRfvNuvpO_HDokBmNn9GuypJWHdyHxo/edit?usp=sharing)
+
+
 ---
 
  Contato:
