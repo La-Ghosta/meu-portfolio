@@ -6,9 +6,9 @@ Sou estudante de Engenharia de Software e estou construindo minha trajetória co
 
 ## Estrutura do Repositório
 
-- `Estudos-iniciais/`: estudos realizados durante a graduação.
+- `Estudos-iniciais/`: Estudos realizados durante a graduação.
 - `projetos-pessoais/`: Iniciativas próprias de estudo e prática.
-
+- `carreira-academica/`: Gerenciamento de Estudo – reúne projetos, calendário, currículo e materiais acadêmicos.
 
 
 ## Destaques
