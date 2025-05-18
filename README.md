@@ -1,7 +1,5 @@
 # Portfólio de Projetos – Ghosta
 
-  **GitHub Pages (site ao vivo):** <https://La-Ghosta.github.io>
-
 
 Bem-vindo ao meu portfólio de projetos!  
 Sou estudante de Engenharia de Software e estou construindo minha trajetória como desenvolvedor, focando em boas práticas, organização e aprendizado constante.
@@ -52,6 +50,12 @@ Meu currículo inicial, contendo informações completas sobre minha formação,
 
 - [Acessar Currículo (Google Drive)](https://docs.google.com/document/d/1ZsCFiT24h6Y-pRfvNuvpO_HDokBmNn9GuypJWHdyHxo/edit?usp=sharing)
 
+
+## 🌐 Apresentação Visual do Portfólio
+
+Você também pode navegar pela versão online do meu portfólio hospedada via GitHub Pages:
+
+- [Acessar GitHub Pages (site ao vivo)](https://La-Ghosta.github.io)
 
 ---
 
